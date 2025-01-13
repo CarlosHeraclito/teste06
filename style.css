@@ -20,6 +20,7 @@ color: white;
 body{
     background-image: url(imagens/bg.png);
     font-family: var(--fonte);
+    
 }
 
 header {
